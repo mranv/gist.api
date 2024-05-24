@@ -1,3 +1,3 @@
-Gist Title: v1.8.10
+Gist Title: -
 Gist Content:
 Failed to fetch Gist content
