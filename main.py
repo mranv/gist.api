@@ -51,3 +51,6 @@ except FileNotFoundError:
 
 except Exception as e:
     print(f"An error occurred: {e}")
+
+# Output the gist title for the GitHub Actions workflow
+print(f"::set-output name=gist_title::{gist_title}")
